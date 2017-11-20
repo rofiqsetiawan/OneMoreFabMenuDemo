@@ -1,0 +1,9 @@
+*.cmd
+*MenuLib
+OneMoreFabMenuDemo/bin/
+OneMoreFabMenuDemo/obj/
+OneMoreFabMenuDemo/packages/
+OneMoreFabMenuLib/bin/
+OneMoreFabMenuLib/obj/
+OneMoreFabMenuLib/packages/
+OneMoreFabMenuDemo/.vs/
